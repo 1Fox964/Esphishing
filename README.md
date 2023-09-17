@@ -1,7 +1,7 @@
 # Esphishing
 O ESPhishing é um ataque de captive portal que é executado na placa de desenvolvimento NodeMCU com o microcontrolador ESP8266. É uma ferramenta de engenharia social que gera uma rede WiFi de um determinado nome, atraindo as pessoas para se conectarem a ela e inserirem credenciais.
 
-Isenção de responsabilidade:
+ISENÇÃO DE RESPONSABILIDAD:
 Este projeto é para fins de teste e educacionais. Use-o apenas em suas próprias redes e dispositivos. Não assumo nenhuma responsabilidade pelo que você faz com este programa.
 
 CRÉDITOS: 
